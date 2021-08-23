@@ -1,0 +1,20 @@
+{
+  "name": "com.mitay-walle.random",
+  "version": "1.0.1",
+  "displayName": "Random Extensions",
+  "description": "позволяет вынимать случайный объект из нумерованных коллекций (Array, List etc) , а так же из Vector2 и Vector4",
+  "unity": "2018.4",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/mitay-walle/Transform_stuff#readme",
+  "licensesUrl": "https://github.com/mitay-walle/Transform_stuff/blob/master/LICENSE",
+  "dependencies": { },
+ "keywords": [
+    "UI",
+    "Animation"
+  ],
+  "author": {
+    "name": "mitay-walle",
+    "email": "mitay-walle@mail.ru",
+    "url": "https://github.com/mitay-walle"
+  }
+}
